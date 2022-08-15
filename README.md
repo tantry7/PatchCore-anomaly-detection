@@ -22,4 +22,5 @@ For Detection of Anomalies in GLASS
 <li>Notebook Used for Running The code</li>
 https://colab.research.google.com/drive/17iXSRVjpCrQ3AKQIBSvPPmiuN3emAABR?usp=sharing
 
-
+<h2>Results</h2>
+Results are in the Final results folder.
